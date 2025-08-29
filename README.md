@@ -1,9 +1,9 @@
-# Insta-Cypher: Instagram Password Cracker
-# Developed And Designed By Pralin Khaira
+# InstaHackx007: Instagram Password Cracker
+# Developed And Designed By  Krishna007
 
 ## Description
 
-Insta-Cypher is a Bash script designed for ethical purposes to perform brute-force attacks on Instagram accounts, allowing users to recover forgotten or lost passwords. This script utilizes a list of possible passwords and various techniques to attempt to gain access to an Instagram account. Please ensure you have explicit permission to use this tool on any account.
+InstaHackx007 is a Bash script designed for ethical purposes to perform brute-force attacks on Instagram accounts, allowing users to recover forgotten or lost passwords. This script utilizes a list of possible passwords and various techniques to attempt to gain access to an Instagram account. Please ensure you have explicit permission to use this tool on any account.
 
 ## Disclaimer
 
@@ -29,9 +29,9 @@ Before you begin, make sure you have the following prerequisites:
 
 Follow these steps to install and use Insta-Cypher:
 
-1. **Clone the Repository**: Clone the Insta-Cypher repository from GitHub to your local machine.
+1. **Clone the Repository**: Clone the InstaHackx007 repository from GitHub to your local machine.
    ```
-   git clone https://github.com/pralinkhaira/Insta-Cypher
+   git clone https://github.com/CyberKrishna007/instahackx007
    ```
 
 2. **Start Tor**: Run the Tor service in another terminal to ensure anonymous and secure connections.
@@ -41,7 +41,7 @@ Follow these steps to install and use Insta-Cypher:
 
 3. **Navigate to the Script Directory**: Change the current directory to the Insta-Cypher directory.
    ```
-   cd Insta-Cypher
+   cd instahackx007
    ```
 
 4. **Set Permissions**: Make the script executable by changing its permissions.
@@ -56,7 +56,7 @@ Follow these steps to install and use Insta-Cypher:
 
 ## Usage
 
-After installation, you can run Insta-Cypher using the following command:
+After installation, you can run InstaHackx007 using the following command:
 ```
 ./insta.sh
 ```
@@ -71,7 +71,7 @@ This command will start the script, allowing you to perform brute-force attacks 
 
 
 ## Update
-Thank you to user [RedDragon-MuKeYu](https://github.com/RedDragon-MuKeYu) for identifying an issue with the password list file name. When using the default password list, ensure it is named "default-passwords.lst" instead of "passwords.lst." This correction ensures that the script can read the password list correctly. If you encounter any further issues, please feel free to reach out for assistance. Your feedback is valuable in improving the script for all users.
+" This correction ensures that the script can read the password list correctly. If you encounter any further issues, please feel free to reach out for assistance. Your feedback is valuable in improving the script for all users.
 
 ## License
 
